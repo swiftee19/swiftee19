@@ -45,6 +45,6 @@ Thanks for stopping by!
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
 <h1>My Stats</h1>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=irvinsuh&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=irvinsuh&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvinsuh&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hiutempura&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiutempura&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiutempura&layout=compact&theme=cobalt&hide_border=true" />
