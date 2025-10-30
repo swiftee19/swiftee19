@@ -1,5 +1,5 @@
 Hi there! 👋 Welcome to my GitHub profile!
-I'm Irvin, a passionate tech enthusiast with a love for building and exploring diverse technologies. My expertise spans across **web development**, **fullstack development**, **data science**, and **AI**. Whether it's crafting responsive web apps, diving into data analysis, or developing intelligent solutions, I enjoy leveraging technology to solve real-world problems.
+I'm Irvin, a passionate tech enthusiast with a love for building and exploring diverse technologies. My expertise spans across **data science**, **web development**, **fullstack development**, and **AI**. Whether it's crafting responsive web apps, diving into data analysis, or developing intelligent solutions, I enjoy leveraging technology to solve real-world problems.
 
 Here, you'll find a variety of projects that reflect my curiosity and passion for continuous learning. Feel free to explore, collaborate, or reach out if you're interested in working together!
 
@@ -45,5 +45,4 @@ Thanks for stopping by!
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
 <h1>My Stats</h1>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hiutempura&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiutempura&layout=compact&theme=cobalt&hide_border=true" />
